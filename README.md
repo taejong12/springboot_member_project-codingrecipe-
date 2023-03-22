@@ -6,4 +6,5 @@
 5. Spring Data JPA
 6. Thymeleaf
 
+# 유튜브 - https://www.youtube.com/@codingrecipe
 
